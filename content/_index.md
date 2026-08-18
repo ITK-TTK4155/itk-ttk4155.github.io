@@ -6,7 +6,7 @@ title: "TTK4155 Lab"
 
 Lab documentation for the TTK4155 course at NTNU.
 
-- [TTK4155 Kit List](docs/kit-list/): contents of the lab kit, and return requirements
-- [TTK4155 Motor Shield](docs/motor-shield/): pinout, motor driver, quadrature encoder, servo, and CAN
-- [TTK4155 User IO-board](docs/user-io-board/): joystick, touch, and display module with analog and SPI interface
+- [Kit List](docs/kit-list/): contents of the lab kit, and return requirements
+- [Motor Shield](docs/motor-shield/): pinout, motor driver, quadrature encoder, servo, and CAN
+- [User IO-board](docs/user-io-board/): joystick, touch, and display module with analog and SPI interface
 - [TTK4147 BRTT Control Panel](https://www.itk.ntnu.no/doc/ttk4147-brtt/): interactive control panel (external tool)
