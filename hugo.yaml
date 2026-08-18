@@ -41,9 +41,6 @@ menu:
     - name: "TTK4155 Lab Documentation"
       pageRef: "/docs/"
       weight: 10
-    - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book/"
-      weight: 20
 
   # before: []
   after:
@@ -75,7 +72,7 @@ params:
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  # BookSection: docs
+  BookSection: /
 
   # (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
   # When set enabled 'Last Modified' and a link to the commit in the footer of the page.
