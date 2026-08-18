@@ -1,10 +1,6 @@
-# Hugo-Book Starter
+# Embedded and Industrial Computer Systems Design TTK4155 website
 
-This is a template repository to bootstrap your documentation site with Hugo-Book theme. It contains minimal configured from the start hugo site.
-1. To use this repository create a new repository from this template
-2. Run `git clone --recurse-submodules --shallow-submodules https://github.com/{org/user}/{repository}`
-3. Enter newly created directory `cd {repository}`
-4. Run hugo `hugo server`
+This repository contains the documentation for the semester project in TTK4155.
 
 And you are ready to write docs!
 
