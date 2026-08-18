@@ -1,8 +1,7 @@
-baseURL: http://0.0.0.0:1313/
-title: Documentation
+baseURL: http://itk-ttk4155.github.io/
+title: TTK4155 Lab
 theme: hugo-book
 
-copyright: "This is a copyright placeholder"
 
 # Book configuration
 disablePathToLower: true
@@ -39,7 +38,7 @@ markup:
 
 menu:
   home:
-    - name: "Documentation"
+    - name: "TTK4155 Lab Documentation"
       pageRef: "/docs/"
       weight: 10
     - name: "Github"
