@@ -7,7 +7,11 @@ weight: 1
 
 Lab documentation for the TTK4155 course at NTNU.
 
+# Lab Hardware 
+
 - [Kit List](https://www.itk.ntnu.no/doc/ttk4155-kit-list/): contents of the lab kit, and return requirements
+- [Motor Shield](https://www.itk.ntnu.no/doc/ttk4155-motor-shield/): pinout, motor driver, quadrature encoder, servo, and CAN
+- [User IO-board](https://www.itk.ntnu.no/doc/ttk4155-user-io-board/): joystick, touch, and display module with analog and SPI interface
 
 # Lab Resources
 

@@ -11,5 +11,3 @@ weight: 10
 - [Atmel AVR042: AVR Hardware Design Considerations](Atmel-AVR042-AVR-hardware-design-considerations.pdf)
 - [Atmel-ICE User Guide](Atmel-ICE-Userguide.pdf)
 - [AT11489: Low Power Techniques for Atmel SMART ARM MCUs](AT11489-Low-Power-Techniques-for-Atmel-SMART-ARM-MCUs.pdf)
-- [Motor Shield](TTK4155-Motor-Shield.pdf)
-- [User IO-board](TTK4155-User-IO-board.pdf)
