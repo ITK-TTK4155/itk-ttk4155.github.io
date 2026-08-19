@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.Language.Name .Site.Language.Locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Site.Title }}</title>
+  <meta http-equiv="refresh" content="0; url={{ "docs/" | absURL }}">
+  <link rel="canonical" href="{{ "docs/" | absURL }}">
+</head>
+<body>
+  <p>Redirecting to <a href="{{ "docs/" | absURL }}">{{ .Site.Title }} documentation</a>…</p>
+</body>
+</html>
