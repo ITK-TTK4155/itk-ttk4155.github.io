@@ -21,10 +21,10 @@ Lab documentation for the TTK4155 course at NTNU.
 
 # Code Handouts
 
-- [Node 1 (Linux)](https://github.com/ITK-TTK4155/node1): Linux Makefile
-- [Node 2 (Windows & Linux)](https://github.com/ITK-TTK4155/node2): Starter code, CAN library, UART & printf
-- [Lab Tools](https://github.com/ITK-TTK4155/lab-tools): SRAM tests, CAN constants, fonts, and prebuilt firmware
+- [Node 1 (Linux)](https://github.com/TTK4155/node1): Linux Makefile
+- [Node 2 (Windows & Linux)](https://github.com/TTK4155/node2): Starter code, CAN library, UART & printf
+- [Lab Tools](https://github.com/TTK4155/lab-tools): SRAM tests, CAN constants, fonts, and prebuilt firmware
 
 # Optional Exercises
 
-- [Extras](https://github.com/ITK-TTK4155/extras): Bluetooth Low Energy IoT Exercise
+- [Extras](https://github.com/TTK4155/extras): Bluetooth Low Energy IoT Exercise
