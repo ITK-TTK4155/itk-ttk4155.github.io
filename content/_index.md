@@ -15,3 +15,8 @@ Lab documentation for the TTK4155 course at NTNU.
 
 - [Node 1 (Linux)](https://github.com/ITK-TTK4155/node1): Linux Makefile
 - [Node 2 (Windows & Linux)](https://github.com/ITK-TTK4155/node2): Starter code, CAN library, UART & printf
+
+
+# Optional Exercises
+
+- [Extras](https://github.com/ITK-TTK4155/extras): Bluetooth Low Energy IoT Exercise
