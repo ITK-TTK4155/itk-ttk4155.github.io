@@ -1,4 +1,4 @@
-baseURL: http://itk-ttk4155.github.io
+baseURL: http://ttk4155.github.io
 title: TTK4155 Lab
 theme: hugo-book
 
@@ -45,7 +45,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/itk-ttk4155"
+      url: "https://github.com/ttk4155"
       weight: 10
 
 taxonomies:
