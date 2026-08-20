@@ -7,24 +7,28 @@ weight: 1
 
 Lab documentation for the TTK4155 course at NTNU.
 
-# Lab Hardware 
+## Lab Manual
+
+- [Lab Manual](https://github.com/TTK4155/lab_manual/releases): newest release of lab manual
+
+## Lab Hardware 
 
 - [Kit List](https://www.itk.ntnu.no/doc/ttk4155-kit-list/): contents of the lab kit, and return requirements
 - [Motor Shield](https://www.itk.ntnu.no/doc/ttk4155-motor-shield/): pinout, motor driver, quadrature encoder, servo, and CAN
 - [User IO-board](https://www.itk.ntnu.no/doc/ttk4155-user-io-board/): joystick, touch, and display module with analog and SPI interface
 
-# Lab Resources
+## Lab Resources
 
 - [User Guides](user-guides/): manuals and application notes
 - [Schematics](schematics/): board schematics
 - [Datasheets](datasheets/): component datasheets
 
-# Code Handouts
+## Code Handouts
 
 - [Node 1 (Linux)](https://github.com/TTK4155/node1): Linux Makefile
 - [Node 2 (Windows & Linux)](https://github.com/TTK4155/node2): Starter code, CAN library, UART & printf
 - [Lab Tools](https://github.com/TTK4155/lab-tools): SRAM tests, CAN constants, fonts, and prebuilt firmware
 
-# Optional Exercises
+## Optional Exercises
 
 - [Extras](https://github.com/TTK4155/extras): Bluetooth Low Energy IoT Exercise
